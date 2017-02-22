@@ -1,0 +1,1 @@
+/** * Created by Name on 23.02.2017. */public class A {    public static void main(String[] args) {        System.out.println("Hello world");    }}
